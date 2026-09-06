@@ -1,46 +1,17 @@
-<img src="header.png" alt="k074m4n // security researcher" width="100%">
+<img src="https://kotaman.net/gh/header.png" alt="k074m4n // security researcher" width="100%">
 
-<p align="left">
-  <a href="https://kotaman.net"><img src="https://img.shields.io/badge/kotaman.net-050505?style=for-the-badge&logo=firefoxbrowser&logoColor=fcee0a" alt="kotaman.net"></a>
-  <a href="https://linkedin.com/in/kotaman"><img src="https://img.shields.io/badge/LinkedIn-in%2Fkotaman-00f0ff?style=for-the-badge&labelColor=050505" alt="LinkedIn"></a>
-</p>
+Computer Engineering student at Yıldız Technical University and a security researcher, based in İstanbul.
 
-Computer Engineering student at Yıldız Technical University and a security researcher.
+Most of my attention goes to AI and LLM security. Prompt injection, jailbreaks, and what the attack surface looks like once a system can act and not only answer. A model that returns text is one problem. A model wired to tools, handed credentials and left to run is a different one, and that is the part I keep coming back to.
 
-Most of my attention goes to AI and LLM security: prompt injection, jailbreaks, and what
-the attack surface looks like once a system can act and not only answer. IoT and WiFi
-security get the rest. That means firmware, exposed services, and the wireless protocols
-between devices.
+IoT and WiFi security get the rest. Firmware, exposed services, and the protocols sitting between embedded devices. I like the hardware end of it most: RFID and NFC, RF access tooling, and the kind of small drop devices you have to build yourself before you understand them.
 
-I learn by building. My projects are in AI, IoT, WiFi and hardware, and what I pick up
-along the way turns into a write-up. I also write about the security industry itself,
-mostly surveillance and privacy.
+I learn by building. My projects are in AI, IoT, WiFi and hardware, and whatever I pick up along the way turns into a write-up. None of it starts as a product. It starts because I wanted to know how something breaks.
 
-## Focus
+I also write about the security industry itself, mostly surveillance and privacy. Who collects what, who buys it, and what you can actually do about it.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AI_Security-fcee0a?style=for-the-badge&labelColor=050505" alt="AI Security">
-  <img src="https://img.shields.io/badge/LLM_Security-fcee0a?style=for-the-badge&labelColor=050505" alt="LLM Security">
-  <img src="https://img.shields.io/badge/IoT_Security-00f0ff?style=for-the-badge&labelColor=050505" alt="IoT Security">
-  <img src="https://img.shields.io/badge/WiFi_Security-00f0ff?style=for-the-badge&labelColor=050505" alt="WiFi Security">
-  <img src="https://img.shields.io/badge/Hardware-ff003c?style=for-the-badge&labelColor=050505" alt="Hardware">
-  <img src="https://img.shields.io/badge/OSINT-ff003c?style=for-the-badge&labelColor=050505" alt="OSINT">
-</p>
-
-## Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=fcee0a" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-050505?style=for-the-badge&logo=pytorch&logoColor=ff003c" alt="PyTorch">
-  <img src="https://img.shields.io/badge/OpenCV-050505?style=for-the-badge&logo=opencv&logoColor=00f0ff" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Hugging_Face-050505?style=for-the-badge&logo=huggingface&logoColor=fcee0a" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=fcee0a" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=ff003c" alt="Git">
-</p>
+<img src="https://kotaman.net/gh/stack.png" alt="Focus: AI and LLM security, IoT security, WiFi security, hardware and RF. Stack: Python, Assembly, PyTorch, Transformers, OpenCV, agent orchestration, RAG, OSINT, Linux, git." width="100%">
 
 ## Writing
 
-- [Watching the watchers: Flock and the license-plate dragnet](https://kotaman.net/blog/flock-cameras/)
-- [Make Orwell fiction again](https://kotaman.net/blog/mass-surveillance/)
-
-More at [kotaman.net](https://kotaman.net).
+Write-ups and essays go up at **[kotaman.net](https://kotaman.net)**. You can also find me on [LinkedIn](https://linkedin.com/in/kotaman).
