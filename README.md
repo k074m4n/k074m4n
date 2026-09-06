@@ -10,7 +10,7 @@ I learn by building. My projects are in AI, IoT, WiFi and hardware, and whatever
 
 I also write about the security industry itself, mostly surveillance and privacy. Who collects what, who buys it, and what you can actually do about it.
 
-<img src="https://kotaman.net/gh/stack.png?v=2" alt="Focus: AI and LLM security, IoT security, WiFi security, hardware and RF. Notes: the risk starts when a model gets tools, not when it gets bigger; the cleanest way in is not a wiretap, it is a receipt; you are the product being logged, bought and resold." width="100%">
+<img src="https://kotaman.net/gh/stack.png?v=3" alt="Focus: AI and LLM security, IoT security, WiFi security, hardware and RF. Manifesto: hack the planet; you are the product; make Orwell fiction again; break it to learn it." width="100%">
 
 ## Writing
 
